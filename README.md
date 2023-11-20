@@ -26,7 +26,7 @@ print(C)
 ```
 
 ## Output:
-![output![Alt text](<sol. for linear equations.png>)]
+![output!<img width="596" alt="sol  for linear equations" src="https://github.com/Ganesh23013987/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147473768/bb1cdc9a-2f10-4df5-ba5d-9badd8d4beec">]
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
